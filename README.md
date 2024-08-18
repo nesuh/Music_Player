@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 Here's a sample documentation template for your React project that you can use for your GitHub repository. Feel free to customize it as needed:
 
-                                    Song Management App
+                                   # Song Management App
 Overview
 This project is a ReactJS application for managing a list of songs. The frontend is built using ReactJS with Redux Toolkit, Redux-Saga, Emotion, and Styled System. It connects to a NestJS backend for handling data operations. The application allows users to create, update, and delete songs. It is hosted on platforms like Netlify or Vercel.
 
